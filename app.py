@@ -5,6 +5,13 @@ import streamlit as st
 #python -m streamlit run app.py(type cmd in the path "C:\Users\orin\Desktop\app.py")
 st.set_page_config(page_title="GD level generater", page_icon = "💜")
 st.header("Gd level generater")
+st.markdown("""
+<style>
+.stApp {
+    background-color: #12001F;
+}
+</style>
+""", unsafe_allow_html=True)
 if st.button("Generater idea", use_container_width=True):
     #os.system("cls")
     #print("\033[1;35mGd Level Idea Generator\n\033[0m")
