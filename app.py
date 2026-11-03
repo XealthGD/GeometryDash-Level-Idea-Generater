@@ -9,6 +9,18 @@ st.markdown("""
 <style>
 .stApp {
     background-color: #12001F;
+    
+    .stButton > button {
+    background-color: #A020F0;
+    color: white;
+    border-radius: 12px;
+    border: none;
+}
+
+.stButton > button:hover {
+    background-color: #FF69B4;
+    color: white;
+}
 }
 </style>
 """, unsafe_allow_html=True)
