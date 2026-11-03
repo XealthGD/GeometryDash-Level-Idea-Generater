@@ -9,10 +9,10 @@ if st.button("Generater idea", use_container_width=True):
     #os.system("cls")
     #print("\033[1;35mGd Level Idea Generator\n\033[0m")
     #input("\033[1;32m\nEnter to run\n\033[0m")
-    word1 = ["Blood","Luminous","Ridiculous","Geometry","Hollow","Fizzy","Easy","Slow","Jolly","Real","Tidal"]
-    word2 = ["Snazz","Bath","Wave","Tidal","Flatty","Meow","Candy","Grief","Fast","Filled","Mango"]
+    word1 = ["Blood","Luminous","Ridiculous","Geometry","Hollow","Fizzy","Easy","Slow","Jolly","Real","Tidal","Sakupen","water"]
+    word2 = ["Snazz","Bath","Wave","Tidal","Flatty","Meow","Candy","Grief","Fast","Filled","Mango","Hell","End"]
     diff = ["Easy","Normal","Hard","Harder","Insane","Easy demon","Medium demon","Hard demon","Insane demon","Extreme Demon"]
-    vibes = ["Colorful","Flashy","Memory","chill glow","Cartoony","1.9"]
+    vibes = ["Colorful","Flashy","Memory","chill glow","Cartoony","1.9 style","Hell","Simple glow","Simple mordern","2.0 style"]
     gamemodes = ["Cube", "Ship", "Ball", "Ufo", "Wave","Robot","Spider","Swing"]
     lengths = ["Medium","Short" , "Long", "XL"]
     sid = ["1","2","3","4","5","6","7","8","9","0"]
